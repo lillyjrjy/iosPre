@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-https://user-images.githubusercontent.com/56412294/181350830-ff0f4daa-1abc-4cb1-b5a6-4cd5b470d3fc.mov
+![ezgif-3-3e8159e162](https://user-images.githubusercontent.com/56412294/181352263-2625006e-dfb1-4f59-8307-b7e7b2fe0837.gif)
 
 
 
